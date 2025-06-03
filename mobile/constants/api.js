@@ -1,0 +1,1 @@
+export const API_URL = "https://finance-tracker-react-native-production.up.railway.app/api"
