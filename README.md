@@ -38,7 +38,6 @@ A cross-platform mobile finance tracking app built with **React Native** and **E
 | Auth | Clerk.dev |
 | DB | Neon PostgreSQL |
 | Rate Limiting | Upstash Ratelimit |
-| State Mgmt | Context API or Redux |
 | Deployment | Railway Node.js backend |
 
 ## 💡 Key Features Shown in Screenshots
